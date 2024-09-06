@@ -1,0 +1,2606 @@
+[
+    {
+        "id": "7a5e353202d40a844491fa5753bc3097",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": 1725814800,
+        "home_team": "Buffalo Bills",
+        "away_team": "Arizona Cardinals",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": 1725584461,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584461,
+                        "outcomes": [
+                            {
+                                "name": "Arizona Cardinals",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Buffalo Bills",
+                                "price": 1.91,
+                                "point": -6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": 1725584443,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584443,
+                        "outcomes": [
+                            {
+                                "name": "Arizona Cardinals",
+                                "price": 1.93,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Buffalo Bills",
+                                "price": 1.89,
+                                "point": -6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": 1725584329,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584329,
+                        "outcomes": [
+                            {
+                                "name": "Arizona Cardinals",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Buffalo Bills",
+                                "price": 1.91,
+                                "point": -6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": 1725584444,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584444,
+                        "outcomes": [
+                            {
+                                "name": "Arizona Cardinals",
+                                "price": 1.92,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Buffalo Bills",
+                                "price": 1.89,
+                                "point": -6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": 1725584471,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584471,
+                        "outcomes": [
+                            {
+                                "name": "Arizona Cardinals",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Buffalo Bills",
+                                "price": 1.87,
+                                "point": -6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": 1725584442,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584442,
+                        "outcomes": [
+                            {
+                                "name": "Arizona Cardinals",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Buffalo Bills",
+                                "price": 1.91,
+                                "point": -6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": 1725584495,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584495,
+                        "outcomes": [
+                            {
+                                "name": "Arizona Cardinals",
+                                "price": 1.93,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Buffalo Bills",
+                                "price": 1.88,
+                                "point": -6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Arizona Cardinals",
+                                "price": 1.91,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Buffalo Bills",
+                                "price": 1.91,
+                                "point": -6.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Arizona Cardinals",
+                                "price": 1.95,
+                                "point": 6.5
+                            },
+                            {
+                                "name": "Buffalo Bills",
+                                "price": 1.87,
+                                "point": -6.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "92665529cce6b8089e793d1e7d5e4b66",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": 1725814800,
+        "home_team": "Atlanta Falcons",
+        "away_team": "Pittsburgh Steelers",
+        "bookmakers": [
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": 1725584443,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584443,
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Falcons",
+                                "price": 1.93,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Pittsburgh Steelers",
+                                "price": 1.89,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": 1725584461,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584461,
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Falcons",
+                                "price": 1.94,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Pittsburgh Steelers",
+                                "price": 1.88,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": 1725584444,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584444,
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Falcons",
+                                "price": 1.93,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Pittsburgh Steelers",
+                                "price": 1.88,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": 1725584329,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584329,
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Falcons",
+                                "price": 1.95,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Pittsburgh Steelers",
+                                "price": 1.87,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": 1725584471,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584471,
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Falcons",
+                                "price": 1.8,
+                                "point": -3.0
+                            },
+                            {
+                                "name": "Pittsburgh Steelers",
+                                "price": 2.05,
+                                "point": 3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": 1725584442,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584442,
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Falcons",
+                                "price": 1.91,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Pittsburgh Steelers",
+                                "price": 1.91,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": 1725584495,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584495,
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Falcons",
+                                "price": 1.82,
+                                "point": -3.0
+                            },
+                            {
+                                "name": "Pittsburgh Steelers",
+                                "price": 2.02,
+                                "point": 3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Falcons",
+                                "price": 1.95,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Pittsburgh Steelers",
+                                "price": 1.8,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Atlanta Falcons",
+                                "price": 1.95,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Pittsburgh Steelers",
+                                "price": 1.87,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "022add645ca37d612dbb69e8ef02f6b9",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": 1725814800,
+        "home_team": "New Orleans Saints",
+        "away_team": "Carolina Panthers",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": 1725584461,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584461,
+                        "outcomes": [
+                            {
+                                "name": "Carolina Panthers",
+                                "price": 1.96,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 1.85,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": 1725584443,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584443,
+                        "outcomes": [
+                            {
+                                "name": "Carolina Panthers",
+                                "price": 1.89,
+                                "point": 4.0
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 1.93,
+                                "point": -4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": 1725584329,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584329,
+                        "outcomes": [
+                            {
+                                "name": "Carolina Panthers",
+                                "price": 1.91,
+                                "point": 4.0
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 1.91,
+                                "point": -4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": 1725584444,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584444,
+                        "outcomes": [
+                            {
+                                "name": "Carolina Panthers",
+                                "price": 1.88,
+                                "point": 4.0
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 1.93,
+                                "point": -4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": 1725584442,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584442,
+                        "outcomes": [
+                            {
+                                "name": "Carolina Panthers",
+                                "price": 1.91,
+                                "point": 4.0
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 1.91,
+                                "point": -4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": 1725584495,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584495,
+                        "outcomes": [
+                            {
+                                "name": "Carolina Panthers",
+                                "price": 1.87,
+                                "point": 4.0
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 1.95,
+                                "point": -4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": 1725584471,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584471,
+                        "outcomes": [
+                            {
+                                "name": "Carolina Panthers",
+                                "price": 1.91,
+                                "point": 4.0
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 1.91,
+                                "point": -4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Carolina Panthers",
+                                "price": 1.91,
+                                "point": 4.0
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 1.91,
+                                "point": -4.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Carolina Panthers",
+                                "price": 1.87,
+                                "point": 4.0
+                            },
+                            {
+                                "name": "New Orleans Saints",
+                                "price": 1.95,
+                                "point": -4.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "b5b9d07cdd5c7bd14e943ccd7973e6a2",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": 1725814800,
+        "home_team": "Chicago Bears",
+        "away_team": "Tennessee Titans",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": 1725584461,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584461,
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bears",
+                                "price": 1.85,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 1.96,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": 1725584443,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584443,
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bears",
+                                "price": 1.91,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 1.91,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": 1725584444,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584444,
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bears",
+                                "price": 1.91,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 1.91,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": 1725584329,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584329,
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bears",
+                                "price": 1.91,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 1.91,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": 1725584442,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584442,
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bears",
+                                "price": 1.91,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 1.91,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": 1725584471,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584471,
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bears",
+                                "price": 1.91,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 1.91,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": 1725584495,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584495,
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bears",
+                                "price": 1.91,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 1.91,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bears",
+                                "price": 1.87,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 1.95,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Chicago Bears",
+                                "price": 1.91,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Tennessee Titans",
+                                "price": 1.91,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5f14ebd3a8f10d141a7f0c2dcf510368",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": 1725814800,
+        "home_team": "Cincinnati Bengals",
+        "away_team": "New England Patriots",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": 1725584461,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584461,
+                        "outcomes": [
+                            {
+                                "name": "Cincinnati Bengals",
+                                "price": 1.87,
+                                "point": -8.5
+                            },
+                            {
+                                "name": "New England Patriots",
+                                "price": 1.95,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": 1725584443,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584443,
+                        "outcomes": [
+                            {
+                                "name": "Cincinnati Bengals",
+                                "price": 1.93,
+                                "point": -8.5
+                            },
+                            {
+                                "name": "New England Patriots",
+                                "price": 1.89,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": 1725584329,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584329,
+                        "outcomes": [
+                            {
+                                "name": "Cincinnati Bengals",
+                                "price": 1.87,
+                                "point": -8.5
+                            },
+                            {
+                                "name": "New England Patriots",
+                                "price": 1.95,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": 1725584444,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584444,
+                        "outcomes": [
+                            {
+                                "name": "Cincinnati Bengals",
+                                "price": 1.92,
+                                "point": -8.5
+                            },
+                            {
+                                "name": "New England Patriots",
+                                "price": 1.89,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": 1725584442,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584442,
+                        "outcomes": [
+                            {
+                                "name": "Cincinnati Bengals",
+                                "price": 1.91,
+                                "point": -8.0
+                            },
+                            {
+                                "name": "New England Patriots",
+                                "price": 1.91,
+                                "point": 8.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": 1725584495,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584495,
+                        "outcomes": [
+                            {
+                                "name": "Cincinnati Bengals",
+                                "price": 1.91,
+                                "point": -8.5
+                            },
+                            {
+                                "name": "New England Patriots",
+                                "price": 1.91,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": 1725584471,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584471,
+                        "outcomes": [
+                            {
+                                "name": "Cincinnati Bengals",
+                                "price": 2.0,
+                                "point": -9.0
+                            },
+                            {
+                                "name": "New England Patriots",
+                                "price": 1.83,
+                                "point": 9.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Cincinnati Bengals",
+                                "price": 1.91,
+                                "point": -8.5
+                            },
+                            {
+                                "name": "New England Patriots",
+                                "price": 1.91,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Cincinnati Bengals",
+                                "price": 1.91,
+                                "point": -8.5
+                            },
+                            {
+                                "name": "New England Patriots",
+                                "price": 1.91,
+                                "point": 8.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "60fdc65ee27ab7dbe07dc06ef35afadc",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": 1725814800,
+        "home_team": "Indianapolis Colts",
+        "away_team": "Houston Texans",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": 1725584461,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584461,
+                        "outcomes": [
+                            {
+                                "name": "Houston Texans",
+                                "price": 1.83,
+                                "point": -2.5
+                            },
+                            {
+                                "name": "Indianapolis Colts",
+                                "price": 1.98,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": 1725584329,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584329,
+                        "outcomes": [
+                            {
+                                "name": "Houston Texans",
+                                "price": 1.95,
+                                "point": -3.0
+                            },
+                            {
+                                "name": "Indianapolis Colts",
+                                "price": 1.87,
+                                "point": 3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": 1725584443,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584443,
+                        "outcomes": [
+                            {
+                                "name": "Houston Texans",
+                                "price": 1.95,
+                                "point": -3.0
+                            },
+                            {
+                                "name": "Indianapolis Colts",
+                                "price": 1.87,
+                                "point": 3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": 1725584444,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584444,
+                        "outcomes": [
+                            {
+                                "name": "Houston Texans",
+                                "price": 1.85,
+                                "point": -2.5
+                            },
+                            {
+                                "name": "Indianapolis Colts",
+                                "price": 1.95,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": 1725584442,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584442,
+                        "outcomes": [
+                            {
+                                "name": "Houston Texans",
+                                "price": 1.91,
+                                "point": -3.0
+                            },
+                            {
+                                "name": "Indianapolis Colts",
+                                "price": 1.91,
+                                "point": 3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": 1725584495,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584495,
+                        "outcomes": [
+                            {
+                                "name": "Houston Texans",
+                                "price": 1.81,
+                                "point": -2.5
+                            },
+                            {
+                                "name": "Indianapolis Colts",
+                                "price": 2.03,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": 1725584471,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584471,
+                        "outcomes": [
+                            {
+                                "name": "Houston Texans",
+                                "price": 2.0,
+                                "point": -3.0
+                            },
+                            {
+                                "name": "Indianapolis Colts",
+                                "price": 1.83,
+                                "point": 3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Houston Texans",
+                                "price": 1.95,
+                                "point": -3.0
+                            },
+                            {
+                                "name": "Indianapolis Colts",
+                                "price": 1.87,
+                                "point": 3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Houston Texans",
+                                "price": 2.0,
+                                "point": -3.0
+                            },
+                            {
+                                "name": "Indianapolis Colts",
+                                "price": 1.83,
+                                "point": 3.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8c0e75b0a4ea07212e741acf25ad96b6",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": 1725814800,
+        "home_team": "Miami Dolphins",
+        "away_team": "Jacksonville Jaguars",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": 1725584461,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584461,
+                        "outcomes": [
+                            {
+                                "name": "Jacksonville Jaguars",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Miami Dolphins",
+                                "price": 1.98,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": 1725584329,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584329,
+                        "outcomes": [
+                            {
+                                "name": "Jacksonville Jaguars",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Miami Dolphins",
+                                "price": 2.0,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": 1725584443,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584443,
+                        "outcomes": [
+                            {
+                                "name": "Jacksonville Jaguars",
+                                "price": 1.85,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Miami Dolphins",
+                                "price": 1.98,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": 1725584444,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584444,
+                        "outcomes": [
+                            {
+                                "name": "Jacksonville Jaguars",
+                                "price": 1.97,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "Miami Dolphins",
+                                "price": 1.83,
+                                "point": -3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": 1725584471,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584471,
+                        "outcomes": [
+                            {
+                                "name": "Jacksonville Jaguars",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Miami Dolphins",
+                                "price": 2.0,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": 1725584442,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584442,
+                        "outcomes": [
+                            {
+                                "name": "Jacksonville Jaguars",
+                                "price": 1.91,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Miami Dolphins",
+                                "price": 1.91,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": 1725584495,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584495,
+                        "outcomes": [
+                            {
+                                "name": "Jacksonville Jaguars",
+                                "price": 1.84,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Miami Dolphins",
+                                "price": 1.99,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Jacksonville Jaguars",
+                                "price": 1.87,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Miami Dolphins",
+                                "price": 1.95,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Jacksonville Jaguars",
+                                "price": 1.83,
+                                "point": 3.5
+                            },
+                            {
+                                "name": "Miami Dolphins",
+                                "price": 2.0,
+                                "point": -3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "c483f5c8e0ee5f1f5abdd75870eeeffc",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": 1725814800,
+        "home_team": "New York Giants",
+        "away_team": "Minnesota Vikings",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": 1725584461,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584461,
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Vikings",
+                                "price": 1.87,
+                                "point": -1.5
+                            },
+                            {
+                                "name": "New York Giants",
+                                "price": 1.95,
+                                "point": 1.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": 1725584443,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584443,
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Vikings",
+                                "price": 1.91,
+                                "point": -1.5
+                            },
+                            {
+                                "name": "New York Giants",
+                                "price": 1.91,
+                                "point": 1.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": 1725584329,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584329,
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Vikings",
+                                "price": 1.91,
+                                "point": -1.5
+                            },
+                            {
+                                "name": "New York Giants",
+                                "price": 1.91,
+                                "point": 1.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": 1725584444,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584444,
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Vikings",
+                                "price": 1.91,
+                                "point": -1.5
+                            },
+                            {
+                                "name": "New York Giants",
+                                "price": 1.91,
+                                "point": 1.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": 1725584471,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584471,
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Vikings",
+                                "price": 1.87,
+                                "point": -1.0
+                            },
+                            {
+                                "name": "New York Giants",
+                                "price": 1.95,
+                                "point": 1.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": 1725584442,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584442,
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Vikings",
+                                "price": 1.91,
+                                "point": -1.5
+                            },
+                            {
+                                "name": "New York Giants",
+                                "price": 1.91,
+                                "point": 1.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": 1725584495,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584495,
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Vikings",
+                                "price": 1.9,
+                                "point": -1.5
+                            },
+                            {
+                                "name": "New York Giants",
+                                "price": 1.92,
+                                "point": 1.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Vikings",
+                                "price": 1.91,
+                                "point": -1.5
+                            },
+                            {
+                                "name": "New York Giants",
+                                "price": 1.91,
+                                "point": 1.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Minnesota Vikings",
+                                "price": 1.87,
+                                "point": -1.5
+                            },
+                            {
+                                "name": "New York Giants",
+                                "price": 1.95,
+                                "point": 1.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "afb7e137dbb2a3de38d2d3cb68897e3b",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": 1725825900,
+        "home_team": "Seattle Seahawks",
+        "away_team": "Denver Broncos",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": 1725584461,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584461,
+                        "outcomes": [
+                            {
+                                "name": "Denver Broncos",
+                                "price": 1.98,
+                                "point": 5.5
+                            },
+                            {
+                                "name": "Seattle Seahawks",
+                                "price": 1.83,
+                                "point": -5.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": 1725584329,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584329,
+                        "outcomes": [
+                            {
+                                "name": "Denver Broncos",
+                                "price": 1.91,
+                                "point": 6.0
+                            },
+                            {
+                                "name": "Seattle Seahawks",
+                                "price": 1.91,
+                                "point": -6.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": 1725584443,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584443,
+                        "outcomes": [
+                            {
+                                "name": "Denver Broncos",
+                                "price": 1.91,
+                                "point": 6.0
+                            },
+                            {
+                                "name": "Seattle Seahawks",
+                                "price": 1.91,
+                                "point": -6.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": 1725584444,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584444,
+                        "outcomes": [
+                            {
+                                "name": "Denver Broncos",
+                                "price": 1.92,
+                                "point": 6.0
+                            },
+                            {
+                                "name": "Seattle Seahawks",
+                                "price": 1.89,
+                                "point": -6.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": 1725584442,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584442,
+                        "outcomes": [
+                            {
+                                "name": "Denver Broncos",
+                                "price": 1.91,
+                                "point": 6.0
+                            },
+                            {
+                                "name": "Seattle Seahawks",
+                                "price": 1.91,
+                                "point": -6.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": 1725584495,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584495,
+                        "outcomes": [
+                            {
+                                "name": "Denver Broncos",
+                                "price": 1.89,
+                                "point": 6.0
+                            },
+                            {
+                                "name": "Seattle Seahawks",
+                                "price": 1.93,
+                                "point": -6.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Denver Broncos",
+                                "price": 1.91,
+                                "point": 6.0
+                            },
+                            {
+                                "name": "Seattle Seahawks",
+                                "price": 1.91,
+                                "point": -6.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": 1725584471,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584471,
+                        "outcomes": [
+                            {
+                                "name": "Denver Broncos",
+                                "price": 1.91,
+                                "point": 6.0
+                            },
+                            {
+                                "name": "Seattle Seahawks",
+                                "price": 1.91,
+                                "point": -6.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Denver Broncos",
+                                "price": 1.95,
+                                "point": 6.0
+                            },
+                            {
+                                "name": "Seattle Seahawks",
+                                "price": 1.87,
+                                "point": -6.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a2f9dcdf49ccacf33036a0b795413a6e",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": 1725825900,
+        "home_team": "Los Angeles Chargers",
+        "away_team": "Las Vegas Raiders",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": 1725584461,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584461,
+                        "outcomes": [
+                            {
+                                "name": "Las Vegas Raiders",
+                                "price": 1.95,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "Los Angeles Chargers",
+                                "price": 1.87,
+                                "point": -3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": 1725584443,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584443,
+                        "outcomes": [
+                            {
+                                "name": "Las Vegas Raiders",
+                                "price": 1.91,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "Los Angeles Chargers",
+                                "price": 1.91,
+                                "point": -3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": 1725584329,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584329,
+                        "outcomes": [
+                            {
+                                "name": "Las Vegas Raiders",
+                                "price": 1.91,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "Los Angeles Chargers",
+                                "price": 1.91,
+                                "point": -3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": 1725584444,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584444,
+                        "outcomes": [
+                            {
+                                "name": "Las Vegas Raiders",
+                                "price": 1.91,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "Los Angeles Chargers",
+                                "price": 1.91,
+                                "point": -3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": 1725584442,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584442,
+                        "outcomes": [
+                            {
+                                "name": "Las Vegas Raiders",
+                                "price": 1.91,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "Los Angeles Chargers",
+                                "price": 1.91,
+                                "point": -3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": 1725584471,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584471,
+                        "outcomes": [
+                            {
+                                "name": "Las Vegas Raiders",
+                                "price": 1.91,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "Los Angeles Chargers",
+                                "price": 1.91,
+                                "point": -3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": 1725584495,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584495,
+                        "outcomes": [
+                            {
+                                "name": "Las Vegas Raiders",
+                                "price": 1.92,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "Los Angeles Chargers",
+                                "price": 1.9,
+                                "point": -3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Las Vegas Raiders",
+                                "price": 1.95,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "Los Angeles Chargers",
+                                "price": 1.87,
+                                "point": -3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Las Vegas Raiders",
+                                "price": 1.95,
+                                "point": 3.0
+                            },
+                            {
+                                "name": "Los Angeles Chargers",
+                                "price": 1.87,
+                                "point": -3.0
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a1682ca5d9e0c4b14d19ed69d6299806",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": 1725827100,
+        "home_team": "Cleveland Browns",
+        "away_team": "Dallas Cowboys",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": 1725584461,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584461,
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Browns",
+                                "price": 1.91,
+                                "point": -2.5
+                            },
+                            {
+                                "name": "Dallas Cowboys",
+                                "price": 1.91,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": 1725584329,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584329,
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Browns",
+                                "price": 1.95,
+                                "point": -2.5
+                            },
+                            {
+                                "name": "Dallas Cowboys",
+                                "price": 1.87,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": 1725584495,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584495,
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Browns",
+                                "price": 1.89,
+                                "point": -2.5
+                            },
+                            {
+                                "name": "Dallas Cowboys",
+                                "price": 1.93,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": 1725584443,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584443,
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Browns",
+                                "price": 1.89,
+                                "point": -2.5
+                            },
+                            {
+                                "name": "Dallas Cowboys",
+                                "price": 1.93,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": 1725584444,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584444,
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Browns",
+                                "price": 1.89,
+                                "point": -2.5
+                            },
+                            {
+                                "name": "Dallas Cowboys",
+                                "price": 1.92,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": 1725584471,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584471,
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Browns",
+                                "price": 1.8,
+                                "point": -1.0
+                            },
+                            {
+                                "name": "Dallas Cowboys",
+                                "price": 2.05,
+                                "point": 1.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": 1725584442,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584442,
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Browns",
+                                "price": 1.91,
+                                "point": -2.5
+                            },
+                            {
+                                "name": "Dallas Cowboys",
+                                "price": 1.91,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Browns",
+                                "price": 1.91,
+                                "point": -2.5
+                            },
+                            {
+                                "name": "Dallas Cowboys",
+                                "price": 1.91,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Cleveland Browns",
+                                "price": 1.87,
+                                "point": -2.5
+                            },
+                            {
+                                "name": "Dallas Cowboys",
+                                "price": 1.95,
+                                "point": 2.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ba439e5505ce1ee745d2e48f2d2f31e6",
+        "sport_key": "americanfootball_nfl",
+        "sport_title": "NFL",
+        "commence_time": 1725827100,
+        "home_team": "Tampa Bay Buccaneers",
+        "away_team": "Washington Commanders",
+        "bookmakers": [
+            {
+                "key": "fanduel",
+                "title": "FanDuel",
+                "last_update": 1725584461,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584461,
+                        "outcomes": [
+                            {
+                                "name": "Tampa Bay Buccaneers",
+                                "price": 1.98,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Washington Commanders",
+                                "price": 1.83,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betrivers",
+                "title": "BetRivers",
+                "last_update": 1725584444,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584444,
+                        "outcomes": [
+                            {
+                                "name": "Tampa Bay Buccaneers",
+                                "price": 1.94,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Washington Commanders",
+                                "price": 1.87,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "williamhill_us",
+                "title": "Caesars",
+                "last_update": 1725584329,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584329,
+                        "outcomes": [
+                            {
+                                "name": "Tampa Bay Buccaneers",
+                                "price": 1.91,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Washington Commanders",
+                                "price": 1.91,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "draftkings",
+                "title": "DraftKings",
+                "last_update": 1725584443,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584443,
+                        "outcomes": [
+                            {
+                                "name": "Tampa Bay Buccaneers",
+                                "price": 1.93,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Washington Commanders",
+                                "price": 1.89,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betus",
+                "title": "BetUS",
+                "last_update": 1725584471,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584471,
+                        "outcomes": [
+                            {
+                                "name": "Tampa Bay Buccaneers",
+                                "price": 1.91,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Washington Commanders",
+                                "price": 1.91,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "mybookieag",
+                "title": "MyBookie.ag",
+                "last_update": 1725584442,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584442,
+                        "outcomes": [
+                            {
+                                "name": "Tampa Bay Buccaneers",
+                                "price": 1.91,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Washington Commanders",
+                                "price": 1.91,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betonlineag",
+                "title": "BetOnline.ag",
+                "last_update": 1725584495,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584495,
+                        "outcomes": [
+                            {
+                                "name": "Tampa Bay Buccaneers",
+                                "price": 1.8,
+                                "point": -3.0
+                            },
+                            {
+                                "name": "Washington Commanders",
+                                "price": 2.05,
+                                "point": 3.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "betmgm",
+                "title": "BetMGM",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Tampa Bay Buccaneers",
+                                "price": 1.95,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Washington Commanders",
+                                "price": 1.87,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "bovada",
+                "title": "Bovada",
+                "last_update": 1725584484,
+                "markets": [
+                    {
+                        "key": "spreads",
+                        "last_update": 1725584484,
+                        "outcomes": [
+                            {
+                                "name": "Tampa Bay Buccaneers",
+                                "price": 2.0,
+                                "point": -3.5
+                            },
+                            {
+                                "name": "Washington Commanders",
+                                "price": 1.83,
+                                "point": 3.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
