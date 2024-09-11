@@ -2,13 +2,14 @@ import requests
 import logging
 from datetime import datetime
 import pandas as pd
+import os
 
 
-def get_weather(city, api_key):
+def get_weather(city):
     """
     Get the 3 day weather forecast for a city from the OpenWeatherMap API
     """
-    url = f"https://api.openweathermap.org/data/2.5/forecast?q={city}&APPID={api_key}"
+    url = f'https://api.openweathermap.org/data/2.5/forecast?q={city}&APPID={os.environ["OPENWEATHERMAP_API_KEY"]}'
     response = requests.get(url)
     if response.status_code == 200:
         data = response.json()
@@ -54,3 +55,26 @@ def convert_weather_to_df(future_weather):
     )
 
     return weather_df
+
+
+def convert_past_weather_to_df(past_weather):
+    data = []
+    for data_ in past_weather['locations'].values():
+        data.extend(data_['values']) 
+    
+    df = pd.DataFrame(data)
+    
+    return df
+
+def get_past_weather(lon, lat, start_date, end_date):
+    """
+    Get historical weather data for a specific location and time.
+    """
+    url = f'https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/weatherdata/history?&aggregateHours=24&startDateTime={start_date}&endDateTime={end_date}&unitGroup=us&contentType=json&dayStartTime=0:0:00&dayEndTime=0:0:00&location={lon},{lat}&key={os.environ["VISUALCROSSING_API_KEY"]}'
+    response = requests.get(url)
+    if response.status_code == 200:
+        data = response.json()
+        return data
+    else:
+        logging.error(f"Failed to get data: {response.status_code}")
+        return None
