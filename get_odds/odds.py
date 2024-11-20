@@ -56,6 +56,9 @@ def clean_odds_data(odds_data: json):
                         if odds['point'] < 0:
                             clean_odds_data['projected_winner'] = odds['name']
                             clean_odds_data['projected_spread'] = abs(odds['point'])
+                        elif odds['point'] == 0:
+                            clean_odds_data['projected_winner'] = 'Tie'
+                            clean_odds_data['projected_spread'] = 0
             clean_odds_data__list.append(clean_odds_data)
         return clean_odds_data__list
 
