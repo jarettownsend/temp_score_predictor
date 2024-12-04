@@ -12,6 +12,7 @@ REGIONS = 'us'
 MARKETS = 'spreads'
 ODDS_FORMAT = 'decimal' # decimal | american
 DATE_FORMAT = 'unix'
+BOOK_MAKER = 'fanduel'
 
 def sunday_date():
     sunday = time.localtime(time.time() + (6 - time.localtime().tm_wday) * 86400)
@@ -51,7 +52,7 @@ def clean_odds_data(odds_data: json):
             clean_odds_data['home_team'] = row['home_team']
             clean_odds_data['away_team'] = row['away_team']
             for bookmaker in row['bookmakers']:
-                if bookmaker['key'] == 'fanduel':
+                if bookmaker['key'] == BOOK_MAKER:
                     for odds in bookmaker['markets'][0]['outcomes']:
                         if odds['point'] < 0:
                             clean_odds_data['projected_winner'] = odds['name']
