@@ -61,6 +61,11 @@ def process_z_scores(odds:dict, stadium_locations:pd.DataFrame)->list:
         home_team = game['home_team']
         away_team = game['away_team']
         game_time = game['commence_time']
+
+        # Need to test this when I have wifi
+        roof_type = stadium_location[stadium_location['team_name'] == home_team]['roof']
+        if roof_type.isin('yes','retractable'):
+            pass
         
         home_city = stadium_locations[stadium_locations['team_name'] == home_team]['City'].iloc[0]
         weather = get_weather(home_city)
