@@ -62,10 +62,9 @@ def process_z_scores(odds:dict, stadium_locations:pd.DataFrame)->list:
         away_team = game['away_team']
         game_time = game['commence_time']
 
-        # Need to test this when I have wifi
-        roof_type = stadium_location[stadium_location['team_name'] == home_team]['roof']
-        if roof_type.isin('yes','retractable'):
-            pass
+        roof_type = stadium_locations[stadium_locations['team_name'] == home_team]['roof'].iloc[0]
+        if roof_type in ['yes','retractable']:
+            continue
         
         home_city = stadium_locations[stadium_locations['team_name'] == home_team]['City'].iloc[0]
         weather = get_weather(home_city)
@@ -77,13 +76,3 @@ def process_z_scores(odds:dict, stadium_locations:pd.DataFrame)->list:
 
 
     return results
-
-
-if __name__ == '__main__':
-    with open('get_odds/odds_response_2.json', 'r') as file:
-        odds = json.load(file)
-    stadium_location = pd.read_csv('nfl_stadium_locations.csv')
-
-    z_scores = process_z_scores(odds, stadium_location)
-    print(z_scores)
-   

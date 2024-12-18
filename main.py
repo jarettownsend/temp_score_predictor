@@ -20,3 +20,7 @@ def main():
     # Will post this info on Twitter
 
     return tweet
+
+
+if __name__ == "__main__":
+    main()
