@@ -45,8 +45,8 @@ def pull_odds_data() -> json:
 def clean_odds_data(odds_data: json):
     try:
         clean_odds_data__list = []
-        clean_odds_data = {}
         for row in odds_data:
+            clean_odds_data = {}
             clean_odds_data['id'] = row['id']
             clean_odds_data['commence_time'] = row['commence_time']
             clean_odds_data['home_team'] = row['home_team']
@@ -75,6 +75,3 @@ def main():
     except Exception as e:
         print('Error in main: ', e)
         raise Exception(e)
-
-if __name__ == '__main__':
-    main()
