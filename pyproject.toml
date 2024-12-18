@@ -5,10 +5,11 @@ name = "temp-score-predictor"
 version = "0.1.0"
 
 [tool.poetry.dependencies]
-python = ">=3.10, <3.11" 
+python = ">=3.10, <3.12" 
 requests = "^2.32.3"
 pandas = "^2.2.2"
 python-dotenv = "^1.0.1"
+tweepy = "^4.14.0"
 
 
 [build-system]

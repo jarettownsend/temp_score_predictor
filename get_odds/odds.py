@@ -12,6 +12,7 @@ REGIONS = 'us'
 MARKETS = 'spreads'
 ODDS_FORMAT = 'decimal' # decimal | american
 DATE_FORMAT = 'unix'
+print('hello')
 
 def sunday_date():
     sunday = time.localtime(time.time() + (6 - time.localtime().tm_wday) * 86400)
