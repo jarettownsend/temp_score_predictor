@@ -1,0 +1,33 @@
+team_name,roof,surface,lat,long,City
+Houston Texans,retractable,turf,29.684723,-95.410835,Houston
+Seattle Seahawks,no,turf,47.5952,-122.3316,Seattle
+Buffalo Bills,no,turf,42.774,-78.787,Buffalo
+Pittsburgh Steelers,no,grass,40.446667,-80.01583,Pittsburgh
+Arizona Cardinals,retractable,grass,33.528,-112.263,Phoenix
+Los Angeles Rams,yes,turf,33.953,-118.339,Los Angeles
+Miami Dolphins,no,grass,25.958055,-80.23889,Miami
+Baltimore Ravens,no,grass,39.278057,-76.62278,Baltimore
+Cleveland Browns,no,grass,41.50611,-81.69945,Cleveland
+Denver Broncos,no,grass,39.74389,-105.02,Denver
+Detroit Lions,yes,turf,42.34,-83.045555,Detroit
+San Francisco 49ers,no,grass,37.403,-121.97,San Francisco
+Las Vegas Raiders,yes,grass,36.090557,-115.18389,Las Vegas
+Kansas City Chiefs,no,grass,39.04889,-94.48389,Kansas City
+New England Patriots,no,turf,42.091,-71.264,Foxborough
+New Orleans Saints,yes,turf,29.950832,-90.08111,New Orleans
+Tennessee Titans,no,turf,36.16639,-86.771385,Nashville
+Los Angeles Chargers,yes,turf,33.953,-118.339,Los Angeles
+Cincinnati Bengals,no,turf,39.095,-84.516,Cincinnati
+New York Giants,no,turf,40.8,-74.066666,East Rutherford
+Jacksonville Jaguars,no,grass,30.323889,-81.6375,Jacksonville
+Tampa Bay Buccaneers,no,grass,27.975834,-82.503334,Tampa
+Atlanta Falcons,retractable,turf,33.755554,-84.4,Atlanta
+Minnesota Vikings,yes,turf,44.974,-93.258,Minneapolis
+Dallas Cowboys,retractable,turf,32.747776,-97.09278,Dallas
+Carolina Panthers,no,turf,35.225834,-80.852776,Charlotte
+Green Bay Packers,no,grass,44.50139,-88.062225,Green Bay
+Chicago Bears,no,grass,41.8623,-87.6167,Chicago
+New York Jets,no,turf,40.8,-74.066666,East Rutherford
+Philadelphia Eagles,no,grass,36.900833,-75.1675,Philadelphia
+Indianapolis Colts,retractable,turf,39.75,-86.15,Indianapolis
+Washington Commanders,no,grass,38.907776,-76.86444,Landover

@@ -57,14 +57,6 @@ def convert_weather_to_df(future_weather):
     return weather_df
 
 
-def convert_past_weather_to_df(past_weather):
-    data = []
-    for data_ in past_weather['locations'].values():
-        data.extend(data_['values']) 
-    
-    df = pd.DataFrame(data)
-    
-    return df
 
 def get_past_weather(lon, lat, start_date, end_date):
     """
@@ -78,3 +70,12 @@ def get_past_weather(lon, lat, start_date, end_date):
     else:
         logging.error(f"Failed to get data: {response.status_code}")
         return None
+    
+
+def extract_temp_values(past_weather):
+    temps = []
+    for location in past_weather['locations'].values():
+        for entry in location['values']:
+            if 'temp' in entry:
+                temps.append(entry['temp'])
+    return temps
