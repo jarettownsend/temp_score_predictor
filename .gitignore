@@ -2,3 +2,5 @@ venv
 .env
 *.pyc
 __pycache__
+launch.json
+.vscode
