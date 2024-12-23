@@ -39,3 +39,33 @@ class TestPredictor(unittest.TestCase):
         '''
         self.assertEqual(os.environ["ADD ENV HERE"], "KEY OF ENV HERE")
         self.assertTrue(callable(self.predictor.calculate_z_score))
+
+    def test_calculate_z_score(self):
+        '''
+        Test to ensure calculate_z_score function works as expected.
+        '''
+        # Case: New value is the same as the mean
+        historical_values = [1, 2, 3, 4, 5]
+        new_value = 3
+        expected = 0
+        result = self.predictor.calculate_z_score(new_value, historical_values)
+        self.assertEqual(result, expected)
+
+        # Case: Identical historical values
+        historical_values = [3, 3, 3, 3, 3]
+        new_value = 3
+        expected = 0 
+        result = self.predictor.calculate_z_score(new_value, historical_values)
+        self.assertEqual(result, expected)
+
+        # Case: Large new value
+        historical_values = [1, 2, 3, 4, 5]
+        new_value = 100
+        result = self.predictor.calculate_z_score(new_value, historical_values)
+        self.assertGreater(result, 0)  # Z should be positive
+
+        # Case: Very small new value
+        historical_values = [1, 2, 3, 4, 5]
+        new_value = -100
+        result = self.predictor.calculate_z_score(new_value, historical_values)
+        self.assertLess(result, 0)  # Z should be negative

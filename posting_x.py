@@ -1,3 +1,4 @@
+# Was unable to add to poetry file because of dependencies. Was able to pip install though and it works
 from requests_oauthlib import OAuth1Session
 import os
 import json
