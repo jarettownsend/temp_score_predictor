@@ -1,5 +1,6 @@
 from odds import main as odds_main
 from predictor import process_z_scores
+from posting_x import post_to_x
 import pandas as pd
 
 def create_tweet(max_z_score_dict):
@@ -17,9 +18,7 @@ def main():
     z_scores = process_z_scores(odds, stadium_locations)
     max_z_score_dict = max(z_scores, key=lambda x: abs(x['z_score']))
     tweet = create_tweet(max_z_score_dict)
-    # Will post this info on Twitter
-
-    return tweet
+    post_to_x(tweet=tweet)
 
 
 if __name__ == "__main__":
